@@ -12,3 +12,4 @@ function checkIsSuccess(data){
 }
 
 console.log(checkIsSuccess("success"));
+console.log("print sucess message");
